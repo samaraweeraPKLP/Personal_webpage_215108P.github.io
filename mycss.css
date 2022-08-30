@@ -13,6 +13,7 @@ nav {
     padding: 10px 90px;
     box-sizing: border-box;
     background: rgba(0,0,0,0.6);
+    z-index:9;
 }
 nav .logo{
     height: 180px;
